@@ -4,12 +4,6 @@ import numpy
 ##
 # Trabalho de Aprendizado de máquina
 # Inteligência Artificial - UFRJ - 2018.2
-#
-# Nome: Renan Hozumi Barbieri
-# DRE: 111201610
-# Nome: Felipe Gonçalves
-# DRE:
-#
 ##
 
 # Pega os dados dos arquivos csv
